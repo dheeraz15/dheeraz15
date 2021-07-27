@@ -1,8 +1,18 @@
 ## Hello World!
 
-[![Twitch](https://img.shields.io/badge/-Twitch?style=flat&logo=Twitch&logoColor=white)](https://twitch.tv/underhade)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/underhade)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rochak2005@gmail.com)
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/underhade">
+  <img align="left" alt="underhade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/underhade">
+  <img align="left" alt="underhade | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+<a href="https://open.spotify.com/user/31fpiupvq5gvebwdjaleqtaeqsqe">
+  <img align="left" alt="underhade | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
 
 My name is **Dhiraj Chapagain**, My alias is underhade and I am 15 years old. <br>
