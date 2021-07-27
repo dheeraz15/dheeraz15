@@ -1,18 +1,18 @@
-## Hello World!
-
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/whjgc7Tf5y">
+  <img align="left" alt="underhade's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.facebook.com/underhade/">
+  <img align="left" alt="underhade's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://twitter.com/underhade">
   <img align="left" alt="underhade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/underhade">
-  <img align="left" alt="underhade | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 <a href="https://open.spotify.com/user/31fpiupvq5gvebwdjaleqtaeqsqe">
-  <img align="left" alt="underhade | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="underhade's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=imsubedibibek)
 
 <br />
 
