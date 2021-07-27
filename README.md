@@ -1,61 +1,26 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.com/invite/gmzhmyZb8m">
-  <img align="left" alt="Subedibibek's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.facebook.com/groups/techforimpact">
-  <img align="left" alt="Subedibibek's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<a href="https://twitter.com/subedibibek00">
-  <img align="left" alt="Subedi Bibek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/subedibibek/">
-  <img align="left" alt="Bibek's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/8g152p6xg83chwvyn5pci8h2k?si=J8-t2QXGTgycKNjmCMMlPA">
-  <img align="left" alt="Bibek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/imsubedibibek/">
-  <img align="left" alt="Bibek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
+## Hello World!
 
-![](https://visitor-badge.glitch.me/badge?page_id=imsubedibibek)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
-<br />
 
-Hi, I'm [Subedibibek!](https://www.instagram.com/whoissubedibibek), a Passionate | learner | tech-geek | Student |
- 🙌 from Kathmandu, Nepal.
+My name is **Dhiraj Chapagain**, My alias is underhade and i am 15 years old. <br>
+I am completely passionate about filmmaking altho I love to code and design websites on my free time! I love listening to music :heartbeat: :notes:, watching movies/series and playing games with my friend <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" width="500" height="340" />
-  
-**Talking about Personal Stuffs:**
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- 👨🏽‍💻 I’m currently working on some of my private projects :wink:;
-- 👨🏽‍💻 I’m currently Reading A thousands splendid suns :books:;
-- 🌱 I’m currently learning <br> Full-Stack software engineering in Python & Django; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@whoissubedibibek](https://twitter.com/whoisubedibibek);
-- 📝[Resume](https://drive.google.com/file/d/1-hRRJtz3_V4ZqYKorLHmHXRmaXJ0VilW/view)
-- [Join My tech Community from here ❤](https://www.facebook.com/groups/techforimpact)
 
-**Languages and Tools:**  
+- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
+- 💬 Ask me about anything in general, I am always <br> available to help and learn together.
 
-<!--END_SECTION:waka-->
-___
+- 📫 How to reach me: 
+   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): underhade#6969 </a>
 
-
-
-📈 My GitHub Status
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whoissubedibibek&theme=highcontrast&show_icons=true" />
-
-
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-  
-[Join My tech Community from here ❤](https://www.facebook.com/groups/techforimpact)
+<img title="My status" heigth="320" width="420" src=""/>
