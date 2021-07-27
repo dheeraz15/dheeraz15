@@ -12,8 +12,6 @@
   <img align="left" alt="underhade's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=imsubedibibek)
-
 <br />
 
 I am [**Dhiraj Chapagain**](https://instagram.com/underhade), My alias is underhade and I am 15 years old. <br>
