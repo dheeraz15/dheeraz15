@@ -2,8 +2,8 @@
 <a href="https://discord.gg/whjgc7Tf5y">
   <img align="left" alt="underhade's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.facebook.com/underhade/">
-  <img align="left" alt="underhade's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<a href="https://www.instagram.com/underhade/">
+  <img align="left" alt="underhade's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://twitter.com/underhade">
   <img align="left" alt="underhade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
