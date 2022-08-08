@@ -5,10 +5,6 @@
 <a href="https://twitter.com/underhade">
   <img align="left" alt="underhade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/31fpiupvq5gvebwdjaleqtaeqsqe">
-  <img align="left" alt="underhade's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraz15&label=Visitors&color=0e75b6&style=flat" alt="dheeraz15" /> </p>
 
 <br />
